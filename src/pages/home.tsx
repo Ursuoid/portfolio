@@ -4,7 +4,7 @@ import { BearBWSvg, BearcolSvg } from "../components/icons";
 
 export default function Home() {
   return (
-    <div class="grid grid-cols-[1fr_8fr_1fr] md:grid-cols-[1fr_10fr_1fr] h-full">
+    <div class="grid grid-cols-[2fr_8fr_2fr] md:grid-cols-[1fr_10fr_1fr] h-full">
       <div class="col-start-2 flex flex-col h-full mt-16">
         <section class="grid md:grid-cols-[1fr_300px] gap-4">
           <div class="bg-secondary p-4 rounded-box">
@@ -29,12 +29,24 @@ export default function Home() {
               format. These aren't identical copies of the in-game icons, I have
               drawn to my taste. I'm hosting them here for anyone to use.
               <br />
-              If do you use them, please give credit and link back to this page.
+              If you do use them, please give credit and link back to this page.
             </p>
-            <div class="outline-solid outline-neutral rounded-lg mt-2 grid grid-flow-col grid-rows-5 place-items-center gap-4 p-4">
-              <img src="public\svgs\coloured\mesmer.svg" alt="Mesmer Icon" class="w-auto h-10" />
-              <img src="public\svgs\coloured\chrono.svg" alt="Chrono Icon" class="w-auto h-10" />
-              <img src="public\svgs\coloured\mirage.svg" alt="Mirage Icon" class="w-auto h-10" />
+            <div class="bg-black/20 outline-solid outline-neutral/50 rounded-lg mt-4 grid grid-flow-col grid-rows-5 place-items-center gap-3 p-4">
+              <img
+                src="public\svgs\coloured\mesmer.svg"
+                alt="Mesmer Icon"
+                class="w-auto h-10"
+              />
+              <img
+                src="public\svgs\coloured\chrono.svg"
+                alt="Chrono Icon"
+                class="w-auto h-10"
+              />
+              <img
+                src="public\svgs\coloured\mirage.svg"
+                alt="Mirage Icon"
+                class="w-auto h-10"
+              />
               <img
                 src="public\svgs\coloured\virtuoso.svg"
                 alt="Virtuoso Icon"
@@ -50,28 +62,56 @@ export default function Home() {
                 alt="Necromancer Icon"
                 class="w-auto h-10"
               />
-              <img src="public\svgs\coloured\reaper.svg" alt="Reaper Icon" class="w-auto h-10" />
-              <img src="public\svgs\coloured\scourge.svg" alt="Scourge Icon" class="w-auto h-10" />
+              <img
+                src="public\svgs\coloured\reaper.svg"
+                alt="Reaper Icon"
+                class="w-auto h-10"
+              />
+              <img
+                src="public\svgs\coloured\scourge.svg"
+                alt="Scourge Icon"
+                class="w-auto h-10"
+              />
               <img
                 src="public\svgs\coloured\harbinger.svg"
                 alt="Harbinger Icon"
-                class="w-auto h-10"   
+                class="w-auto h-10"
               />
               <img
                 src="public\svgs\coloured\ritualist.svg"
                 alt="Ritualist Icon"
                 class="w-auto h-10"
               />
-              <img src="public\svgs\coloured\ele.svg" alt="Elementalist Icon" class="w-auto h-10" />
-              <img src="public\svgs\coloured\tempest.svg" alt="Tempest Icon" class="w-auto h-10" />
-              <img src="public\svgs\coloured\weaver.svg" alt="Weaver Icon" class="w-auto h-10" />
+              <img
+                src="public\svgs\coloured\ele.svg"
+                alt="Elementalist Icon"
+                class="w-auto h-10"
+              />
+              <img
+                src="public\svgs\coloured\tempest.svg"
+                alt="Tempest Icon"
+                class="w-auto h-10"
+              />
+              <img
+                src="public\svgs\coloured\weaver.svg"
+                alt="Weaver Icon"
+                class="w-auto h-10"
+              />
               <img
                 src="public\svgs\coloured\catalyst.svg"
                 alt="Catalyst Icon"
                 class="w-auto h-10"
               />
-              <img src="public\svgs\coloured\evoker.svg" alt="Evoker Icon" class="w-auto h-10" />
-              <img src="public\svgs\coloured\engi.svg" alt="Engineer Icon" class="w-auto h-10" />
+              <img
+                src="public\svgs\coloured\evoker.svg"
+                alt="Evoker Icon"
+                class="w-auto h-10"
+              />
+              <img
+                src="public\svgs\coloured\engi.svg"
+                alt="Engineer Icon"
+                class="w-auto h-10"
+              />
               <img
                 src="public\svgs\coloured\scrapper.svg"
                 alt="Scrapper Icon"
@@ -87,29 +127,57 @@ export default function Home() {
                 alt="Mechanist Icon"
                 class="w-auto h-10"
               />
-              <img src="public\svgs\coloured\amalgam.svg" alt="Amalgam Icon" class="w-auto h-10" />
-              <img src="public\svgs\coloured\thief.svg" alt="Thief Icon" class="w-auto h-10" />
+              <img
+                src="public\svgs\coloured\amalgam.svg"
+                alt="Amalgam Icon"
+                class="w-auto h-10"
+              />
+              <img
+                src="public\svgs\coloured\thief.svg"
+                alt="Thief Icon"
+                class="w-auto h-10"
+              />
               <img
                 src="public\svgs\coloured\daredevil.svg"
                 alt="Daredevil Icon"
                 class="w-auto h-10"
               />
-              <img src="public\svgs\coloured\deadeye.svg" alt="Deadeye Icon" class="w-auto h-10" />
-              <img src="public\svgs\coloured\specter.svg" alt="Specter Icon" class="w-auto h-10" />
+              <img
+                src="public\svgs\coloured\deadeye.svg"
+                alt="Deadeye Icon"
+                class="w-auto h-10"
+              />
+              <img
+                src="public\svgs\coloured\specter.svg"
+                alt="Specter Icon"
+                class="w-auto h-10"
+              />
               <img
                 src="public\svgs\coloured\antiquary.svg"
                 alt="Antiquary Icon"
                 class="w-auto h-10"
               />
 
-              <img src="public\svgs\coloured\ranger.svg" alt="Ranger Icon" class="w-auto h-10" />
-              <img src="public\svgs\coloured\druid.svg" alt="Druid Icon" class="w-auto h-10" />
+              <img
+                src="public\svgs\coloured\ranger.svg"
+                alt="Ranger Icon"
+                class="w-auto h-10"
+              />
+              <img
+                src="public\svgs\coloured\druid.svg"
+                alt="Druid Icon"
+                class="w-auto h-10"
+              />
               <img
                 src="public\svgs\coloured\soulbeast.svg"
                 alt="Soulbeast Icon"
                 class="w-auto h-10"
               />
-              <img src="public\svgs\coloured\untamed.svg" alt="Untamed Icon" class="w-auto h-10" />
+              <img
+                src="public\svgs\coloured\untamed.svg"
+                alt="Untamed Icon"
+                class="w-auto h-10"
+              />
               <img
                 src="public\svgs\coloured\galeshot.svg"
                 alt="Galeshot Icon"
@@ -140,7 +208,11 @@ export default function Home() {
                 alt="Luminary Icon"
                 class="w-auto h-10"
               />
-              <img src="public\svgs\coloured\warrior.svg" alt="Warrior Icon" class="w-auto h-10" />
+              <img
+                src="public\svgs\coloured\warrior.svg"
+                alt="Warrior Icon"
+                class="w-auto h-10"
+              />
               <img
                 src="public\svgs\coloured\berserker.svg"
                 alt="Berserker Icon"
@@ -156,13 +228,21 @@ export default function Home() {
                 alt="Spellbreaker Icon"
                 class="w-auto h-10"
               />
-              <img src="public\svgs\coloured\paragon.svg" alt="Paragon Icon" class="w-auto h-10"/>
+              <img
+                src="public\svgs\coloured\paragon.svg"
+                alt="Paragon Icon"
+                class="w-auto h-10"
+              />
               <img
                 src="public\svgs\coloured\revenant.svg"
                 alt="Revenant Icon"
                 class="w-auto h-10"
               />
-              <img src="public\svgs\coloured\herald.svg" alt="Herald Icon" class="w-auto h-10" />
+              <img
+                src="public\svgs\coloured\herald.svg"
+                alt="Herald Icon"
+                class="w-auto h-10"
+              />
               <img
                 src="public\svgs\coloured\renegade.svg"
                 alt="Renegade Icon"
@@ -173,7 +253,11 @@ export default function Home() {
                 alt="Vindicator Icon"
                 class="w-auto h-10"
               />
-              <img src="public\svgs\coloured\conduit.svg" alt="Conduit Icon" class="w-auto h-10" />
+              <img
+                src="public\svgs\coloured\conduit.svg"
+                alt="Conduit Icon"
+                class="w-auto h-10"
+              />
             </div>
           </div>
           <div class="gap-3 text-center flex flex-col items-center justify-center bg-neutral p-4 rounded-box">
@@ -181,21 +265,21 @@ export default function Home() {
             <a
               href="/bundles/svg-bundle.zip"
               class="btn btn-secondary size-20"
-              download="Svgs"
+              download="Profession Icon Coloured Svgs"
             >
               Coloured Svg
             </a>
             <a
               href="/bundles/svg-white-bundle.zip"
               class="btn btn-secondary size-20"
-              download="White Svgs"
+              download="Profession Icon White Svgs"
             >
               White Svg
             </a>
             <a
               href="/bundles/png-bundle.zip"
               class="btn btn-secondary size-20"
-              download="Pngs"
+              download="Profession Icon Pngs"
             >
               Coloured Png
             </a>
