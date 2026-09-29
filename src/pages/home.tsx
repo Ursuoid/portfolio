@@ -11,7 +11,9 @@ export default function Home() {
             <h3 class="text-3xl text-center text-base-content uppercase">
               Collection of Shinies
             </h3>
-            <p></p>
+            <p class="p-4 flex">
+              Dazzling intro to my tiny collection of work goes here....
+            </p>
           </div>
           <div class="flex flex-col gap-2 bg-neutral p-4 rounded-box">
             <BearcolSvg class="w-full h-auto" />
@@ -23,11 +25,11 @@ export default function Home() {
             <h3 class="text-3xl text-center text-base-content uppercase">
               Profession Icons
             </h3>
-            <p class="mt-2">
+            <p class="p-4 flex">
               During work on Logw2 there was a need for vector versions of the
-              Guild Wars 2 profession icons. I have recreated them in vector
-              format. These aren't identical copies of the in-game icons, I have
-              drawn to my taste. I'm hosting them here for anyone to use.
+              Guild Wars 2 profession icons. These recreations aren't identical
+              copies of the in-game icons; I have drawn to my taste. I'm hosting
+              them for the community to use.
               <br />
               If you do use them, please give credit and link back to this page.
             </p>
