@@ -38,8 +38,8 @@ export default function Home() {
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\chrono.svg"
-                alt="Chrono Icon"
+                src="public\svgs\coloured\chronomancer.svg"
+                alt="Chronomancer Icon"
                 class="w-auto h-10"
               />
               <img
@@ -58,7 +58,7 @@ export default function Home() {
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\necro.svg"
+                src="public\svgs\coloured\necromancer.svg"
                 alt="Necromancer Icon"
                 class="w-auto h-10"
               />
@@ -83,7 +83,7 @@ export default function Home() {
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\ele.svg"
+                src="public\svgs\coloured\elementalist.svg"
                 alt="Elementalist Icon"
                 class="w-auto h-10"
               />
@@ -108,7 +108,7 @@ export default function Home() {
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\engi.svg"
+                src="public\svgs\coloured\engineer.svg"
                 alt="Engineer Icon"
                 class="w-auto h-10"
               />
@@ -157,7 +157,6 @@ export default function Home() {
                 alt="Antiquary Icon"
                 class="w-auto h-10"
               />
-
               <img
                 src="public\svgs\coloured\ranger.svg"
                 alt="Ranger Icon"
@@ -267,21 +266,21 @@ export default function Home() {
               class="btn btn-secondary size-20"
               download="Profession Icon Coloured Svgs"
             >
-              Coloured Svg
+              Coloured Svgs
             </a>
             <a
               href="/bundles/svg-white-bundle.zip"
               class="btn btn-secondary size-20"
               download="Profession Icon White Svgs"
             >
-              White Svg
+              White Svgs
             </a>
             <a
               href="/bundles/png-bundle.zip"
               class="btn btn-secondary size-20"
               download="Profession Icon Pngs"
             >
-              Coloured Png
+              Coloured Pngs
             </a>
           </div>
         </section>
