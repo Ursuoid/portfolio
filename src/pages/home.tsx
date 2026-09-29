@@ -33,227 +33,227 @@ export default function Home() {
             </p>
             <div class="bg-black/20 outline-solid outline-neutral/50 rounded-lg mt-4 grid grid-flow-col grid-rows-5 place-items-center gap-3 p-4">
               <img
-                src="public\svgs\coloured\mesmer.svg"
+                src="/svgs/coloured/mesmer.svg"
                 alt="Mesmer Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\chronomancer.svg"
+                src="/svgs/coloured/chronomancer.svg"
                 alt="Chronomancer Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\mirage.svg"
+                src="/svgs/coloured/mirage.svg"
                 alt="Mirage Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\virtuoso.svg"
+                src="/svgs/coloured/virtuoso.svg"
                 alt="Virtuoso Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\troubadour.svg"
+                src="/svgs/coloured/troubadour.svg"
                 alt="Troubadour Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\necromancer.svg"
+                src="/svgs/coloured/necromancer.svg"
                 alt="Necromancer Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\reaper.svg"
+                src="/svgs/coloured/reaper.svg"
                 alt="Reaper Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\scourge.svg"
+                src="/svgs/coloured/scourge.svg"
                 alt="Scourge Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\harbinger.svg"
+                src="/svgs/coloured/harbinger.svg"
                 alt="Harbinger Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\ritualist.svg"
+                src="/svgs/coloured/ritualist.svg"
                 alt="Ritualist Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\elementalist.svg"
+                src="/svgs/coloured/elementalist.svg"
                 alt="Elementalist Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\tempest.svg"
+                src="/svgs/coloured/tempest.svg"
                 alt="Tempest Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\weaver.svg"
+                src="/svgs/coloured/weaver.svg"
                 alt="Weaver Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\catalyst.svg"
+                src="/svgs/coloured/catalyst.svg"
                 alt="Catalyst Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\evoker.svg"
+                src="/svgs/coloured/evoker.svg"
                 alt="Evoker Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\engineer.svg"
+                src="/svgs/coloured/engineer.svg"
                 alt="Engineer Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\scrapper.svg"
+                src="/svgs/coloured/scrapper.svg"
                 alt="Scrapper Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\holosmith.svg"
+                src="/svgs/coloured/holosmith.svg"
                 alt="Holosmith Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\mechanist.svg"
+                src="/svgs/coloured/mechanist.svg"
                 alt="Mechanist Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\amalgam.svg"
+                src="/svgs/coloured/amalgam.svg"
                 alt="Amalgam Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\thief.svg"
+                src="/svgs/coloured/thief.svg"
                 alt="Thief Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\daredevil.svg"
+                src="/svgs/coloured/daredevil.svg"
                 alt="Daredevil Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\deadeye.svg"
+                src="/svgs/coloured/deadeye.svg"
                 alt="Deadeye Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\specter.svg"
+                src="/svgs/coloured/specter.svg"
                 alt="Specter Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\antiquary.svg"
+                src="/svgs/coloured/antiquary.svg"
                 alt="Antiquary Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\ranger.svg"
+                src="/svgs/coloured/ranger.svg"
                 alt="Ranger Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\druid.svg"
+                src="/svgs/coloured/druid.svg"
                 alt="Druid Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\soulbeast.svg"
+                src="/svgs/coloured/soulbeast.svg"
                 alt="Soulbeast Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\untamed.svg"
+                src="/svgs/coloured/untamed.svg"
                 alt="Untamed Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\galeshot.svg"
+                src="/svgs/coloured/galeshot.svg"
                 alt="Galeshot Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\guardian.svg"
+                src="/svgs/coloured/guardian.svg"
                 alt="Guardian Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\dragonhunter.svg"
+                src="/svgs/coloured/dragonhunter.svg"
                 alt="Dragonhunter Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\firebrand.svg"
+                src="/svgs/coloured/firebrand.svg"
                 alt="Firebrand Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\willbender.svg"
+                src="/svgs/coloured/willbender.svg"
                 alt="Willbender Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\luminary.svg"
+                src="/svgs/coloured/luminary.svg"
                 alt="Luminary Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\warrior.svg"
+                src="/svgs/coloured/warrior.svg"
                 alt="Warrior Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\berserker.svg"
+                src="/svgs/coloured/berserker.svg"
                 alt="Berserker Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\bladesworn.svg"
+                src="/svgs/coloured/bladesworn.svg"
                 alt="Bladesworn Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\spellbreaker.svg"
+                src="/svgs/coloured/spellbreaker.svg"
                 alt="Spellbreaker Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\paragon.svg"
+                src="/svgs/coloured/paragon.svg"
                 alt="Paragon Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\revenant.svg"
+                src="/svgs/coloured/revenant.svg"
                 alt="Revenant Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\herald.svg"
+                src="/svgs/coloured/herald.svg"
                 alt="Herald Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\renegade.svg"
+                src="/svgs/coloured/renegade.svg"
                 alt="Renegade Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\vindicator.svg"
+                src="/svgs/coloured/vindicator.svg"
                 alt="Vindicator Icon"
                 class="w-auto h-10"
               />
               <img
-                src="public\svgs\coloured\conduit.svg"
+                src="/svgs/coloured/conduit.svg"
                 alt="Conduit Icon"
                 class="w-auto h-10"
               />
